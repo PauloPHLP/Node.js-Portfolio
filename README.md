@@ -3,7 +3,7 @@
 ### <a href="https://paulophlp.github.io/portfolio/">Check it out here</a> 
 
 ## Description
-Welcome to my personal portfolio website project.
+Welcome to my personal portfolio website back end project.
 
 To make my portfolio look good I'm using a modified ReactJS template that you can access <a href="https://github.com/tbakerx/react-resume-template">here.</a>
 
