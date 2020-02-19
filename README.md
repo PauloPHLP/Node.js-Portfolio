@@ -1,4 +1,4 @@
-# Paulo Lima | Portfolio
+# Paulo Lima | Portfolio back end project
 ![ReactJS Resume Website](./assets/images/readme.png?raw=true "ReactJS Resume Website")
 ### <a href="https://paulophlp.github.io/portfolio/">Check it out here</a> 
 
