@@ -1,6 +1,6 @@
 # 🖥️ Portfolio
 
-![ReactJS Resume Website](./src/assets/images/readme.png?raw=true "ReactJS Resume Website")
+![ReactJS Resume Website](./assets/images/readme.png?raw=true "ReactJS Resume Website")
 
 ### 🔗️ <a href="https://paulophlp.github.io/portfolio/" target="__blank">Check it out here</a> 
 
